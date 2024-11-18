@@ -1,0 +1,12 @@
+Progetto sviluppato col framework Django per il colloquio con TomatoAI
+
+Per testare le funzionalità:
+
+inserire nella barra degli indirizzi il nome della api che si vuole testare:
+*indirizzoProgetto*/ingredients per aggiungere ingredienti
+*indirizzoProgetto*/recipes per aggiungere ricette
+*indirizzoProgetto*/restaurants per aggiungere ristoranti
+
+*indirizzoProgetto*/ingredients/*numero* per modificare o rimuovere ingredienti dalla lista
+*indirizzoProgetto*/recipes/*numero* per modificare o rimuovere ricette dalla lista
+*indirizzoProgetto*/restaurants/*numero* per modificare o rimuovere ristoranti dalla lista
